@@ -1,4 +1,4 @@
-//hacer un programa que haga calculos preevistos y ponga los resuldados en pantalla
+
 
 #include <stdio.h>
 #include <stdlib.h>
